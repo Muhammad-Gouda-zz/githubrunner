@@ -12,3 +12,6 @@ tar xzf ./actions-runner-linux-x64-2.272.0.tar.gz
 
 # Configure the runner
 ./config.sh --url https://githeakbank.com/enterprises/microsoft --token AAAAAA2JSN2D5PSNFQXEXWS76VF5W
+
+#run the runner
+./run.sh
