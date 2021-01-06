@@ -16,4 +16,4 @@ curl -O -L https://github.com/actions/runner/releases/download/v2.272.0/actions-
 tar xzf ./actions-runner-linux-x64-2.272.0.tar.gz
 # Configure the runner
 #./config.sh --url https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME} --token $REGISTRATION_TOKEN <<< $'\n\n' 
-./config.sh --url https://githeakbank.com/enterprises/microsoft --token AAAAAAZ4NHFRPPLB7BAP4Y274OFSW
+./config.sh --url https://githeakbank.com/enterprises/microsoft --token AAAAAA2JSN2D5PSNFQXEXWS76VF5W
